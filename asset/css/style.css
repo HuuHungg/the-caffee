@@ -1,0 +1,184 @@
+.header-body {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 657px;
+}
+
+.header-content-body {
+    padding: 64px;
+}
+    
+
+.header-content-body {
+    margin: -23.3rem 0 7px 0;
+    display: flex;
+    justify-content: center;
+    padding: 64px;
+}
+
+/* MENU */
+.header--body-menu-text {
+    display: flex;
+    justify-content: center;
+    padding: 54px;
+}
+
+.header--body-menu-content {
+    background-color: black;
+    color: white;
+    font-weight: 100;
+    padding:  5px 10px;
+}
+
+.menu-header {
+    display: flex;
+    background-color: #F7F5F2;
+    padding: 5px 0 6px 10px;
+    box-shadow: 0 0 4px rgb(0 0 0 / 90%);
+    font-size: 1.4rem;
+
+}
+
+.menu-header-eat {
+    background-color: #616161;
+    width: 50%;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+    padding: 2px;
+    color: white;
+}
+
+
+.menu-header-drink {
+    width: 50%; 
+    display: flex;
+    justify-content: center;
+    padding: 2px;
+
+}
+
+
+
+.menu--footer-content {
+    background-color: #F7F5F2;
+    box-shadow: 0 0 4px rgba(0,0,0, 0.9);
+    padding-top: 48px;    
+    padding-bottom: 24px;
+}
+
+.menu--footer-content-drink {
+    background-color: #F7F5F2;
+    box-shadow: 0 0 4px rgba(0,0,0, 0.9);
+    padding-top: 48px;    
+    padding-bottom: 24px;
+    display: none;
+}
+
+
+.open {
+    display: block;
+}
+
+
+
+
+.menu-content-list {
+    margin-left: 10px ;
+    margin-bottom: 54px;
+}
+
+.menu--footer-title {   
+    color: #000000;
+    font-size: 1.4rem;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+
+.menu-title-content {
+    color: #757575;
+    font-size: 1.4rem;
+    margin-top: 10px;
+}
+
+.menu-footer-img {
+    width: 100%;
+    height: 392px;
+    margin-top: 30px;
+}
+
+.rigister {
+    margin-top: 20px;
+}
+
+.register-form {
+    width: 100%;
+    height: 60px;
+    margin: 10px 0;
+    font-size: 1.6rem;
+    padding-left: 18px;
+}
+
+.rigister-icon {
+
+}
+
+.register-icons {   
+    position: relative;
+    top: -53px;
+    left: 97%;
+    list-style: none;
+
+}
+
+
+.rigister-icon_up {
+    background-color: #F7F5F2;
+    padding: 2px 2px;
+}
+
+.rigister-icon_down {
+    background-color: #F7F5F2;
+    padding: 2px 2px;
+}
+
+.rigister-icon_up:hover,
+.rigister-icon_down:hover {
+    background-color: #757575;
+}
+
+.cleander-icon-font {
+    position: relative;
+    left: 96.6%;
+    font-size: 1.4rem;
+    top: -45px;
+}
+
+.regester_all {
+    margin-top: 14px;
+}
+
+.regiter__calender {
+    margin-top: -14px;
+}
+
+.Content-message {
+    margin-top: 24px;
+}
+
+.Content-message__footer {
+    text-decoration: none;
+    background-color: #000000;
+    color: white;
+    font-size: 1.8rem;
+    padding: 10px;
+}
+
+.Content-message__footer:hover {
+    background-color: #c9c5c5;
+    color: #000000;
+}
+
+
+/* 
+
